@@ -6,7 +6,7 @@ This project explores the **Netflix Titles dataset**, which contains detailed in
 The goal is to apply **Exploratory Data Analysis (EDA)** and **Machine Learning techniques** to uncover insights, build predictive models, and design a recommendation system.
 
 ---
-
+## 📌 Notebook - [Netflix Data Analysis](notebooks/netflix_data_analysis.ipynb)
 ## 📌 Objectives
 - Analyze the distribution of content across **years, countries, and genres**.
 - Identify **patterns and clusters** in Netflix's catalog.
