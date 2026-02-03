@@ -8,7 +8,7 @@ The goal is to apply **Exploratory Data Analysis (EDA)** and **Machine Learning 
 ---
 ## 📌 Notebook - [Netflix Data Analysis](notebooks/netflix_data_analysis.ipynb)
 
-# 📂 Dataset
+## 📂 Dataset
 
 This project uses the [Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows) available on Kaggle.  
 Please download the dataset from Kaggle and place it in the `data/` folder before running the notebook.
