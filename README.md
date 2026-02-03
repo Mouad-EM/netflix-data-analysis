@@ -33,6 +33,7 @@ The goal is to apply **Exploratory Data Analysis (EDA)** and **Machine Learning 
 
 ## 🚀 Project Structure
 netflix-data-analysis/
+
 │── notebooks/
 
 │ └── netflix_data_analysis.ipynb
