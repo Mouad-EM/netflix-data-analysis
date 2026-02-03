@@ -1,5 +1,7 @@
 # 🎬 Netflix Titles Data Analysis
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 This project explores the **Netflix Titles dataset**, which contains detailed information about thousands of movies and TV shows available on the platform.  
 The goal is to apply **Exploratory Data Analysis (EDA)** and **Machine Learning techniques** to uncover insights, build predictive models, and design a recommendation system.
 
