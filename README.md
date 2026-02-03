@@ -35,11 +35,10 @@ The goal is to apply **Exploratory Data Analysis (EDA)** and **Machine Learning 
 netflix-data-analysis/
 │── notebooks/
 │ └── netflix_data_analysis.ipynb
-
 │── data/
-│   └── netflix_titles.csv (or link to dataset)
+│ └── netflix_titles.csv (or link to dataset)
 │── src/
-│   └── helper_functions.py
+│ └── helper_functions.py
 │── README.md
 │── requirements.txt
 
