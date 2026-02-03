@@ -50,10 +50,6 @@ netflix-data-analysis/
 
 │ └── netflix_titles.csv (or link to dataset)
 
-│── src/
-
-│ └── helper_functions.py
-
 │── README.md
 
 │── requirements.txt
